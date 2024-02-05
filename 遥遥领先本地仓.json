@@ -2,7 +2,7 @@
     "storeHouse": [
         {
             "sourceName": "❤️遥遥领先❤️",
-            "sourceUrl": "clan://localhost/yylx/yylx.json"
+            "sourceUrl": "./yylx.json"
         }
     ]
 }
