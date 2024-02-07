@@ -156,6 +156,48 @@
       "changeable": 1,
       "jar":"./fty.jar"
     },
+	  {
+      "key": "伦理吧",
+      "name": "福利吧",
+      "type": 0,
+      "api": "https://lovedan.net/api.php/provide/vod/at/xml/",
+      "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+    },
+ {
+      "key": "奶香m",
+      "name": "奶香.采集",
+      "type": 1,
+      "api": "https://Naixxzy.com/api.php/provide/vod/?ac=list",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "国产自拍",
+        "直播诱惑",
+        "探花约炮",
+        "偷拍偷窥",
+        "网爆吃瓜",
+        "抖阴短片",
+        "传媒剧情",
+        "日韩主播",
+        "日韩无码",
+        "中文字幕",
+        "AV解说",
+        "换脸明星",
+        "强奸乱伦",
+        "女优明星",
+        "欧美激情",
+        "重口激情",
+        "三级伦理",
+        "剧情动漫",
+        "SM调教",
+        "女同性恋",
+        "VR视角"
+      ]
+    },
  {
       "key": "白嫖",
       "name": "┃夏天白嫖┃",
