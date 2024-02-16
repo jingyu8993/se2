@@ -3,6 +3,154 @@
 
 "sites":[
 
+        {
+            "key": "采集A（精品）",
+            "name": "♻采集精品 ",
+            "type": 1,
+            "api": "http://www.jingpinx.com/api.php/provide/vod/",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        
+        {
+            "key": "采集B(草莓)",
+            "name": "♻采集草莓 ",
+            "type": 1,
+            "api": "https://www.cmzyz2.cc/Cmzyzapi.php/provide/vod/",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        
+        {
+            "key": "采集C(黄瓜)",
+            "name": "♻采集黄瓜 ",
+            "type": 1,
+            "api": "https://www.avre06.com/api.php/Prodao/vod/",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "采集D(爱爱仓库)",
+            "name": "♻采集爱爱仓库 ",
+            "type": 1,
+            "api": "http://app.aays.site/api.php/provide/vod/",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        
+        {
+            "key": "采集E(甜蜜)",
+            "name": "♻采集甜蜜",
+            "type": 1,
+            "api": "https://timizy10.cc/api.php/provide/vod/",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        
+        {
+            "key": "采集E(色猫)",
+            "name": "♻采集色猫 ",
+            "type": 1,
+            "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        
+        {
+            "key": "采集E(草榴)",
+            "name": "♻采集草榴",
+            "type": 1,
+            "api": "https://www.caoliuzyw.com/api.php/provide/vod/",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "采集F(老鸭)",
+            "name": "♻采集老鸭",
+            "type": 1,
+            "api": "https://api.apilyzy.com/api.php/provide/vod/",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "采集G(名优)",
+            "name": "♻采集名优",
+            "type": 1,
+            "api": "https://api.apilyzy.com/api.php/provide/vod/",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        
+        {
+            "key": "采集G(美少女)",
+            "name": "♻采集美少女",
+            "type": 0,
+            "api": "https://www.msnii.com/api/xml.php ",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "采集G(香奶儿)",
+            "name": "♻采集名优",
+            "type": 0,
+            "api": "https://www.gdlsp.com/api/xml.php ",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "采集G(开心果)",
+            "name": "♻采集开心果",
+            "type": 0,
+            "api": "https://www.kxgav.com/api/xml.php ",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "采集G(博民)",
+            "name": "♻采集博民",
+            "type": 1,
+            "api": "https://www.bominzy.com/api.php/provide/vod/",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "采集G(jkun)",
+            "name": "♻采集jkun",
+            "type": 1,
+            "api": "https://www.jkunzyapi.com/api.php/provide/vod/",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "采集H(饮水机)",
+            "name": "♻采集饮水机",
+            "type": 0,
+            "api": "https://www.xrbsp.com/api/xml.php ",
+            "searchable": 1,
+            "changeable": 1
+        },
 {
       "key": "南瓜",
       "name": "🇹┃南瓜2K秒播┃",
@@ -13,63 +161,52 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.maolvys.com/",
-"jar":"./fty.jar"
+"jar":"./spider.jar"
     },    
-{
-      "key": "中华医药",
-      "name": "┃中华医药┃",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "jar":"./fty.jar",
-      "ext": "./lib/中华医学.json"
-    },
-{
-      "key": "中华文化",
-      "name": "┃中华文化┃",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-          "jar":"./fty.jar",
-      "ext": "./lib/中华文化.json"
-    },
-    {
-      "key": "中华武术",
-      "name": "┃中华武术┃",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-          "jar":"./fty.jar",
-      "ext": "./lib/中华武术.json"
-    },
-    {
-      "key": "中华命理",
-      "name": "┃中华命理┃",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-          "jar":"./fty.jar",
-      "ext": "./lib/中华命理.json"
-    },
-{
-      "key": "嫂嫂最爱",
-      "name": "┃嫂嫂最爱┃",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-          "jar":"./fty.jar",
-      "ext": "./lib/嫂嫂最爱.json"
-    },
+// {
+      // "key": "中华医药",
+      // "name": "┃中华医药┃",
+      // "type": 3,
+      // "api": "csp_Bili",
+      // "searchable": 0,
+      // "quickSearch": 0,
+      // "filterable": 1,
+      // "jar":"./fty.jar",
+      // "ext": "./lib/中华医学.json"
+    // },
+// // {
+      // "key": "中华文化",
+      // "name": "┃中华文化┃",
+      // "type": 3,
+      // "api": "csp_Bili",
+      // "searchable": 1,
+      // "quickSearch": 1,
+      // "filterable": 1,
+          // "jar":"./fty.jar",
+      // "ext": "./lib/中华文化.json"
+    // },
+    // // {
+      // "key": "中华武术",
+      // "name": "┃中华武术┃",
+      // "type": 3,
+      // "api": "csp_Bili",
+      // "searchable": 1,
+      // "quickSearch": 1,
+      // "filterable": 1,
+          // "jar":"./fty.jar",
+      // "ext": "./中华武术.json"
+    // },
+    // // {
+      // "key": "中华命理",
+      // "name": "┃中华命理┃",
+      // "type": 3,
+      // "api": "csp_Bili",
+      // "searchable": 1,
+      // "quickSearch": 1,
+      // "filterable": 1,
+          // "jar":"./fty.jar",
+      // "ext": "./lib/中华命理.json"
+    // },
 {
 			"key": "直播转点播1",
 			"name": "┃电视直播┃",
@@ -93,21 +230,21 @@
       "ext": "./lib/bilibili.json",
       "jar":"./fty.jar"
     },
-    {
-      "key": "Biliych",
-      "name": "┃哔哔歌曲┃",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "./lib/biliych.json",
-      "spider":"./fty.jar"
-    },
+    // {
+      // "key": "Biliych",
+      // "name": "┃哔哔歌曲┃",
+      // "type": 3,
+      // "api": "csp_Bili",
+      // "style": {
+        // "type": "rect",
+        // "ratio": 1.597
+      // },
+      // "searchable": 1,
+      // "quickSearch": 0,
+      // "changeable": 0,
+      // "ext": "./lib/biliych.json",
+      // "spider":"./fty.jar"
+    // },
 
 {
 			"key": "直播转点播",
@@ -117,17 +254,6 @@
 			"api": "./lib/直播转点播.js",
 			"ext": "./lib/直播转点播配置本地.json"
 		},
-{
-             "key":"直播",
-             "name":"┃秒播直播2┃",
-             "type":3,
-             "api":"./lib/apiv573lf_live10_min.js",
-             "searchable":1,
-             "changeable":0,
-             "quickSearch":1,
-              "filterable":1,"ext":
-              "./lib/lf_live_2.json"},
-
 
 {
       "key": "csp_Anime1",
@@ -148,48 +274,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "jar":"./fty.jar"
-    },
-	  {
-      "key": "伦理吧",
-      "name": "福利吧",
-      "type": 0,
-      "api": "https://lovedan.net/api.php/provide/vod/at/xml/",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1
-    },
- {
-      "key": "奶香m",
-      "name": "奶香.采集",
-      "type": 1,
-      "api": "https://Naixxzy.com/api.php/provide/vod/?ac=list",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "国产自拍",
-        "直播诱惑",
-        "探花约炮",
-        "偷拍偷窥",
-        "网爆吃瓜",
-        "抖阴短片",
-        "传媒剧情",
-        "日韩主播",
-        "日韩无码",
-        "中文字幕",
-        "AV解说",
-        "换脸明星",
-        "强奸乱伦",
-        "女优明星",
-        "欧美激情",
-        "重口激情",
-        "三级伦理",
-        "剧情动漫",
-        "SM调教",
-        "女同性恋",
-        "VR视角"
-      ]
     },
  {
       "key": "白嫖",
