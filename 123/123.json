@@ -2,7 +2,13 @@
  "spider": "./fty.jar",
 
 "sites":[
-
+ {
+                "key": "maiyoux",
+                "name": "美女直播",
+                "type": 3,
+                "api": "./lib/maiyoux_open.js",
+                "jar": "./lib/0606.jar"
+            },
         {
             "key": "采集A（精品）",
             "name": "♻采集精品 ",
