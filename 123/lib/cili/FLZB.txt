@@ -3,7 +3,7 @@
 {
   "pingtai": [
     {
-      "address": "http://api.hclyz.com:81/mf/jsonweishizhibo.txt",
+      "address": "https://raw.githubusercontent.com/jingyu8993/se2/refs/heads/main/123/live.txt",
       "xinimg": "http://cdn.gcufbd.top/img/weishi.jpg",
       "Number": "36",
       "title": "卫视直播"
